@@ -1,0 +1,6 @@
+{
+  "name": "Racha Score",
+  "description": "Organizador de peladas de futebol com captura de estatísticas em tempo real e exportação de PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
